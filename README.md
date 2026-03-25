@@ -20,5 +20,3 @@
 * **Email:** `jsohn1120@gmail.com`
 * **Study Archive Blog:** [Tistory](https://mcodingwa.tistory.com/)
 
----
-![Jiwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=zoniisohn&show_icons=true&theme=radical)
