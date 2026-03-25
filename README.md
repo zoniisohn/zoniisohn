@@ -17,6 +17,6 @@
 * **[Secure Instagram Clone Website Vulnerability Analysis](https://github.com/zoniisohn/secure-coding-insta-clone)**: Developed a secure social media platform by implementing secure coding practices and performing comprehensive vulnerability analysis(SQLi, XSS, etc.)
 
 ### Contact & More
-* **Email:** `jsohn1120@gmail.com`
+* **Email:** jsohn1120@gmail.com
 * **Study Archive Blog:** [Tistory](https://mcodingwa.tistory.com/)
 
